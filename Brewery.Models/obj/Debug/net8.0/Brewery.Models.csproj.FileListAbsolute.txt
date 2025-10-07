@@ -1,0 +1,11 @@
+D:\Extra\Personal\Brewery\Brewery\Brewery.Models\bin\Debug\net8.0\Brewery.Models.deps.json
+D:\Extra\Personal\Brewery\Brewery\Brewery.Models\bin\Debug\net8.0\Brewery.Models.dll
+D:\Extra\Personal\Brewery\Brewery\Brewery.Models\bin\Debug\net8.0\Brewery.Models.pdb
+D:\Extra\Personal\Brewery\Brewery\Brewery.Models\obj\Debug\net8.0\Brewery.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extra\Personal\Brewery\Brewery\Brewery.Models\obj\Debug\net8.0\Brewery.Models.AssemblyInfoInputs.cache
+D:\Extra\Personal\Brewery\Brewery\Brewery.Models\obj\Debug\net8.0\Brewery.Models.AssemblyInfo.cs
+D:\Extra\Personal\Brewery\Brewery\Brewery.Models\obj\Debug\net8.0\Brewery.Models.csproj.CoreCompileInputs.cache
+D:\Extra\Personal\Brewery\Brewery\Brewery.Models\obj\Debug\net8.0\Brewery.Models.dll
+D:\Extra\Personal\Brewery\Brewery\Brewery.Models\obj\Debug\net8.0\refint\Brewery.Models.dll
+D:\Extra\Personal\Brewery\Brewery\Brewery.Models\obj\Debug\net8.0\Brewery.Models.pdb
+D:\Extra\Personal\Brewery\Brewery\Brewery.Models\obj\Debug\net8.0\ref\Brewery.Models.dll

@@ -1,0 +1,11 @@
+D:\Extra\Personal\Brewery\Brewery\Brewery.DTOs\bin\Debug\net8.0\Brewery.DTOs.deps.json
+D:\Extra\Personal\Brewery\Brewery\Brewery.DTOs\bin\Debug\net8.0\Brewery.DTOs.dll
+D:\Extra\Personal\Brewery\Brewery\Brewery.DTOs\bin\Debug\net8.0\Brewery.DTOs.pdb
+D:\Extra\Personal\Brewery\Brewery\Brewery.DTOs\obj\Debug\net8.0\Brewery.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extra\Personal\Brewery\Brewery\Brewery.DTOs\obj\Debug\net8.0\Brewery.DTOs.AssemblyInfoInputs.cache
+D:\Extra\Personal\Brewery\Brewery\Brewery.DTOs\obj\Debug\net8.0\Brewery.DTOs.AssemblyInfo.cs
+D:\Extra\Personal\Brewery\Brewery\Brewery.DTOs\obj\Debug\net8.0\Brewery.DTOs.csproj.CoreCompileInputs.cache
+D:\Extra\Personal\Brewery\Brewery\Brewery.DTOs\obj\Debug\net8.0\Brewery.DTOs.dll
+D:\Extra\Personal\Brewery\Brewery\Brewery.DTOs\obj\Debug\net8.0\refint\Brewery.DTOs.dll
+D:\Extra\Personal\Brewery\Brewery\Brewery.DTOs\obj\Debug\net8.0\Brewery.DTOs.pdb
+D:\Extra\Personal\Brewery\Brewery\Brewery.DTOs\obj\Debug\net8.0\ref\Brewery.DTOs.dll

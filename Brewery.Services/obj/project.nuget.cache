@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jjr2zUlERKZwTAcXUqnerXhRhxL51RirZPUVShPvu2tOd8wLoM3EaT0b0r52XEWCKOdro72ZAnBV1tqk1Rwc2w==",
+  "success": true,
+  "projectFilePath": "D:\\Extra\\Personal\\Brewery\\Brewery\\Brewery.Services\\Brewery.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LPT161\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.9\\microsoft.extensions.caching.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\LPT161\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\LPT161\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.9\\microsoft.extensions.logging.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\LPT161\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.9\\microsoft.extensions.primitives.9.0.9.nupkg.sha512",
+    "C:\\Users\\LPT161\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.9\\system.diagnostics.diagnosticsource.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

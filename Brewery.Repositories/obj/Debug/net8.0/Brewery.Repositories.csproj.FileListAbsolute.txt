@@ -1,0 +1,17 @@
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\bin\Debug\net8.0\Brewery.Repositories.deps.json
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\bin\Debug\net8.0\Brewery.Repositories.dll
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\bin\Debug\net8.0\Brewery.Repositories.pdb
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\bin\Debug\net8.0\Brewery.Models.dll
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\bin\Debug\net8.0\Brewery.Models.pdb
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\obj\Debug\net8.0\Brewery.Repositories.csproj.AssemblyReference.cache
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\obj\Debug\net8.0\Brewery.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\obj\Debug\net8.0\Brewery.Repositories.AssemblyInfoInputs.cache
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\obj\Debug\net8.0\Brewery.Repositories.AssemblyInfo.cs
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\obj\Debug\net8.0\Brewery.Repositories.csproj.CoreCompileInputs.cache
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\obj\Debug\net8.0\Brewery.Repositories.csproj.CopyComplete
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\obj\Debug\net8.0\Brewery.Repositories.dll
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\obj\Debug\net8.0\refint\Brewery.Repositories.dll
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\obj\Debug\net8.0\Brewery.Repositories.pdb
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\obj\Debug\net8.0\ref\Brewery.Repositories.dll
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\bin\Debug\net8.0\Brewery.DTOs.dll
+D:\Extra\Personal\Brewery\Brewery\Brewery.Repositories\bin\Debug\net8.0\Brewery.DTOs.pdb
